@@ -11,6 +11,9 @@ Esta aplicacion será un calendario donde se podrán activar eventos colaborativ
 * NodeJS
     * Express
 * MongoDB
+### Paquetes instalados
+* nodemon
+* dotenv
 
 ---
 ## Front-End
