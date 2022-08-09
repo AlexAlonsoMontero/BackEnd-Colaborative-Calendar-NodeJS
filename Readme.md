@@ -10,10 +10,17 @@ Esta aplicacion será un calendario donde se podrán activar eventos colaborativ
 ## Tecnologías:
 * NodeJS
     * Express
-* MongoDB
+* MongoDB (Atlas)
 ### Paquetes instalados
 * nodemon
 * dotenv
+* express-validator
+* mongoose
+* bcrypt
+* jsonwebtoken
+* cors
+* moment
+
 
 ---
 ## Front-End
