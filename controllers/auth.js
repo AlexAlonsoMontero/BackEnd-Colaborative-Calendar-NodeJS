@@ -69,7 +69,7 @@ const loginUsuario = async (request, response) => {
 
         response.json({
             ok: true,
-            usuario: usuario.id,
+            uid: usuario.id,
             name: usuario.name,
             token
         })
